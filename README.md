@@ -1,4 +1,4 @@
-# CyberChess 2026 — Writeups
+# CyberChess 2026 — Writeups | MUHAMMAD ZAID
 
 Solved challenges from the **CyberChess** CTF (flag format `HTB{...}`).
 Each file is a short writeup: challenge info, the flag, and how I found it.
@@ -11,7 +11,7 @@ Each file is a short writeup: challenge info, the flag, and how I found it.
 | Metric | Value |
 |--------|------:|
 | **Flags** | **49 / 49** |
-| **Points** | **16,750** |
+| **Points** | **13,800** |
 | **First bloods** | **3** |
 
 **Writeups documented: 18** across these categories — Pwn, Reversing, Crypto, Web, Forensics, OSINT, ICS, AI and Quantum.
